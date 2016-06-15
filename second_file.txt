@@ -3,3 +3,6 @@ this is an addition to your initial file
 
 this is additional file by Danny
 Will's new line
+
+
+Let's create a conflict.
